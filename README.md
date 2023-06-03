@@ -607,7 +607,7 @@ contact.html
 ![output](./output9.png)
 
 ### validator page
-![html validator](./validator.png)
+![html validator](./valid.png)
 
 ## Result:
 
