@@ -596,13 +596,18 @@ contact.html
 
 ### Home Page:
 
-![output](./static/images/out1.png)
-![output](./static/images/out2.png)
-![output](./static/images/out3.png)
-![output](./static/images/out4.png)
+![output](./output1.png)
+![output](./output2.png)
+![output](./output3.png)
+![output](./output4.png)
+![output](./output5.png)
+![output](./output6.png)
+![output](./output7.png)
+![output](./output8.png)
+![output](./output9.png)
 
 ### validator page
-![html validator](./static/images/validator.png)
+![html validator](./validator.png)
 
 ## Result:
 
